@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ustad Mobile</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>‫أستاد موبايل‬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ltr</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>rtl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Login</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>وارد شدن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>خطا</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Error registering new user:</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>خطا در ثبت نام کاربر جدید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Registering</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>در حال ثبت نام</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Wrong username/password: try again.</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>نام کاربری اشتباه است / رمز عبور: دوباره امتحان کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Network error: please check you are online.</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>خطای شبکه: لطفا شماچک کنید آنلاین هستید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Authenticating</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>تأیید اعتبار</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sorry: Error loading %s :</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>با عرض پوزش! خطا در بارگذاری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>دانلود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Downloaded</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>دانلود شد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>درست</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>لغو</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>حذف</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sorry!</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>با عرض پوزش!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Error loading catalog:</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>خطا در بارگذاری کاتولوگ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>بارگیری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Error opening file:</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>خطا در باز کردن پرونده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Download in progress...</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>دانلود در حال انجام...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Save to...</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>ذخیره در...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All users</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>تمام کاربران</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Only me</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>فقط من</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>My courses</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>دوره های آموزشی من</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On this device</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>در این دستگاه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Logout</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>خارج شدن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>About</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>درباره</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Download for...</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>دانلود برای...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>تازه کردن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Download all</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>دانلود همه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nothing selected!</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>هیچ چیز انتخاب نشده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>بعد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>بازگشت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Username</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>کاربر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Password</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>رمز ورودی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>New password</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>رمز عبور جدید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phone memory</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>حافظه تلفن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Memory card</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>کارت حافظه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Device</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>دستگاه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Register</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>ثبت نام</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phone number</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>نمبر تلفن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>نام</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>مذکر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>مونث</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sorry!</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>با عرض تأسف!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Could not open file.</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>نمیتواند فایل را بازکرد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>تنظیمات</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>System Language</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>سیستم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>English</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>انگلیسی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Arabic</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>عربی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>My Resources</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>دانلود شده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Browse Libraries</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>دستگاه های محتوا/خدمت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Choose Format:</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>فرمت را انتخاب کنید:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>زبان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>پیشرفته</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Server</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>سرور</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Optional</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>اختیاری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Email</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>ایمیل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Signup Code</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>ثبت نام کد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Home</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>صفحه اول</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>افزودن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please enter phone number</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>لطفاً شمارۀ تیلفون را داخل کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phone</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>تیلفون</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tablet</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>تبلت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please enter name</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>لطفاً نام را داخل کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Attendance</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>حاظری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Processing</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>پردازش</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>صنف‌ها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Exams</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>آزمون‌ها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Reports</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>گزارش‌ها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Account</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>حساب</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Forgot password</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>خروج از سیستم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Connection</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>اتصال</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>اعلان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>General Connection</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>اتصال عمومی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Total mobile data usage</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>مجموع مصرف داده تلفن همراه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Account</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>حساب</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Data usage</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>استفاده از داده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>App interface language</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>زبان اپلکیشن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Enable supernode</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>سوپرنود را فعال سازید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Share App</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>اپلکیشن را شریک کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Share via...</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>بدین وسیله شریک کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Share</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>شریک کردن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Receive</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>دریافت کردن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sent</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>فرستاده شد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sending</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>در حال فرستادن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Send</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>فرستادن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Size</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>اندازه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>See also</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>همچنان - ببینید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Download in another language</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>به زبان دیگری دانلود کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Modify</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>اصلاح</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>باز کردن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Passed</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>کامیاب شدید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In progress</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>در جریان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Downloading</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>در حال دانلود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Waiting</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>در حال انتظار</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Waiting for sender</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>منتظر فرستنده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Queued</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>در صف</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Failed</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>ناموفق</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can share this app offline. On the device that you want to share with: \n1.</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>می‌تواند این اپلکیشن را به‌صورت آنلاین شریک سازید.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Open Settings &gt; Bluetooth Settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>\n2. Make sure that the device is visible.</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>در دستگاه که شما می‌خواهید توسط آن شریک سازید:\n تنظیمات را بازکنید &lt; تنظیمات بلوتوث\n مطمئن شوید که دستگاه قابل‌رؤیت است.\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Preparing</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>آماده سازی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Select language</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>زبان را انتخاب کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Use device language</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>از زبان دستگاه استفاده کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OK, got it!</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>سمه ده، پوه شوم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Don't show this next time</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>این را بار بعدی نشان ندهید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Login successful</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>دخول موفق</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Registration successful</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>ثبت‌نام موفق</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1. On the other device, open the app, and select receive from the top right menu.</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>در دستگاه دیگر، اپلکیشن را بازه کنید، از بالای سمت راست مینو دریافت یا انتخاب کنید.\n دستگاه دیگر را از فهرست زیر انتخاب کنید:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>\n2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Select the other device from the list below:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cancel invite</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>لغو دعوت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inviting</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>در حال دعوت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This field is required</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>این بخش الزمی است</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Accept</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>پذیرفتن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Decline</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>رد کردن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Send in zip file</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>در فایل زیپ بفرستید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also available in</seg>
+      </tuv>
+      <tuv xml:lang="FA-AF" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>همدارنګه د لاسترسي وړ دی</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
