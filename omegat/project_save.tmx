@@ -472,8 +472,8 @@
       <tuv lang="EN-US">
         <seg>Network error: please check you are online.</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
-        <seg>خطای شبکه: لطفا شماچک کنید آنلاین هستید</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T072811Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>خطای شبکه: لطفا چک کنید که آنلاین هستید</seg>
       </tuv>
     </tu>
     <tu>
@@ -904,10 +904,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrong email address</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T072704Z" creationid="GMH" creationdate="20190703T072704Z">
+        <seg>آدرس ایمیل اشتباه است </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrong username/password: try again.</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
-        <seg>نام کاربری اشتباه است / رمز عبور: دوباره امتحان کنید</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T072748Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>نام کاربری/رمز عبور اشتباه است: دوباره امتحان کنید</seg>
       </tuv>
     </tu>
     <tu>
