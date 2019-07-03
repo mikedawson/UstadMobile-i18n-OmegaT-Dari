@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add subcategory</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T205107Z" creationid="GMH" creationdate="20190703T205107Z">
+        <seg>علاوه ساختن کتگوری فرعی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -406,6 +414,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Catalog added to catalog</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204710Z" creationid="GMH" creationdate="20190703T204710Z">
+        <seg>کتلاگ در کتلاگ علاوه گردید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Categories</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204629Z" creationid="GMH" creationdate="20190703T204629Z">
+        <seg>کتگوریها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T205048Z" creationid="GMH" creationdate="20190703T205048Z">
+        <seg>کتگوری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category deleted from catalog</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T205132Z" creationid="GMH" creationdate="20190703T205132Z">
+        <seg>کتگوری از کتلاگ حذف گردید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Center</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183849Z" creationid="GMH" creationdate="20190703T183849Z">
@@ -418,6 +458,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203430Z" creationid="GMH" creationdate="20190703T203430Z">
         <seg>تغییر رمز عبور</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change photo</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204548Z" creationid="GMH" creationdate="20190703T204548Z">
+        <seg>تغییر تصویر</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +490,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203510Z" creationid="GMH" creationdate="20190703T203510Z">
         <seg>انتخاب زبان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose photo</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204606Z" creationid="GMH" creationdate="20190703T204606Z">
+        <seg>انتخاب تصویر</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +546,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T073918Z" creationid="GMH" creationdate="20190703T073908Z">
         <seg>تائید </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm fingerprint to continue</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204837Z" creationid="GMH" creationdate="20190703T204837Z">
+        <seg>برای ادامه، نشان انگشت را تایید کنید</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +626,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T201738Z" creationid="GMH" creationdate="20190703T201738Z">
         <seg>دوره های آموزشی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new item</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204621Z" creationid="GMH" creationdate="20190703T204621Z">
+        <seg>ایجاد یک بخش جدید</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,10 +718,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description (Dari)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204523Z" creationid="GMH" creationdate="20190703T204523Z">
+        <seg>تفصیل (دری)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description (English)</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204512Z" creationid="GMH" creationdate="20190703T204512Z">
         <seg>تفصیل (انگلیسی)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description (Pahto)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204532Z" creationid="GMH" creationdate="20190703T204532Z">
+        <seg>تفصیل (پشتو)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,6 +1178,30 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183816Z" creationid="GMH" creationdate="20190703T183816Z">
         <seg>حروف کج</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Item</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204716Z" creationid="GMH" creationdate="20190703T204716Z">
+        <seg>بخش</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Item added to catalog</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204654Z" creationid="GMH" creationdate="20190703T204654Z">
+        <seg>بخش در کتلاگ علاوه گردید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Item deleted from catalog</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T205122Z" creationid="GMH" creationdate="20190703T205122Z">
+        <seg>بخش از کتلاگ حذف گردید</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,6 +1682,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T180047Z" creationid="GMH" creationdate="20190703T180047Z">
         <seg>صفحات </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parent categories</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204541Z" creationid="GMH" creationdate="20190703T204541Z">
+        <seg>کتگوری والدین</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sign in</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204745Z" creationid="GMH" creationdate="20190703T204745Z">
+        <seg>وارد شدن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Signup Code</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T075241Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -2214,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subcategory</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204723Z" creationid="GMH" creationdate="20190703T204723Z">
+        <seg>کتگوری فرعی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Superscript</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183913Z" creationid="GMH" creationdate="20190703T183913Z">
@@ -2266,6 +2402,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T075300Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>تبلیت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take photo</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204600Z" creationid="GMH" creationdate="20190703T204600Z">
+        <seg>اخذ تصویر</seg>
       </tuv>
     </tu>
     <tu>
@@ -2370,6 +2514,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195453Z" creationid="GMH" creationdate="20190703T195453Z">
         <seg>مجموع:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Touch sensor</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204920Z" creationid="GMH" creationdate="20190703T204920Z">
+        <seg>لمس حسگر</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,6 +2654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use password</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204848Z" creationid="GMH" creationdate="20190703T204848Z">
+        <seg>استفاده رمز عبور</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Username</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -2627,6 +2787,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>date (asc)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T205044Z" creationid="GMH" creationdate="20190703T205044Z">
+        <seg>تاریخ (asc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>date (desc)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T205017Z" creationid="GMH" creationdate="20190703T205017Z">
+        <seg>تاریخ (desc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>location</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T194926Z" creationid="GMH" creationdate="20190703T194926Z">
@@ -2639,6 +2815,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203007Z" creationid="GMH" creationdate="20190703T203007Z">
         <seg>بیشترین استفاده شده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204924Z" creationid="GMH" creationdate="20190703T204924Z">
+        <seg>اسم</seg>
       </tuv>
     </tu>
     <tu>
@@ -2679,6 +2863,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174112Z" creationid="GMH" creationdate="20190703T174112Z">
         <seg>برای آغاز تنظیم نمودن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>total (asc)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204931Z" creationid="GMH" creationdate="20190703T204931Z">
+        <seg>مجموع (asc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>total (desc)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T205009Z" creationid="GMH" creationdate="20190703T205009Z">
+        <seg>مجموع (desc)</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
