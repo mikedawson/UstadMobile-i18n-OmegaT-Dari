@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Location permissions required</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T144418Z" creationid="GMH" creationdate="20190703T144418Z">
+        <seg>اجازه موقعیت لازمی میباشد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Login</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T072341Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T075300Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>تبلیت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This app requires location permissions to enable you to download and share content offline.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T144755Z" creationid="GMH" creationdate="20190703T144755Z">
+        <seg>در این اپلیکیشن به اجازه موقعیت ضرورت است تا شما بتوانید محتویات آنرا آفلاین شریک سازید.</seg>
       </tuv>
     </tu>
     <tu>
