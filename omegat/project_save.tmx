@@ -134,10 +134,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add content</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184455Z" creationid="GMH" creationdate="20190703T184455Z">
+        <seg>علاوه ساختن محتوی </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add item</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195109Z" creationid="GMH" creationdate="20190703T195109Z">
+        <seg>علاوه ساختن جنس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add new</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184402Z" creationid="GMH" creationdate="20190703T184402Z">
+        <seg>علاوه ساختن جدید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add page</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174337Z" creationid="GMH" creationdate="20190703T174337Z">
+        <seg>اضافه کردن صفحه </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add payment</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195648Z" creationid="GMH" creationdate="20190703T195648Z">
+        <seg>علاوه ساختن پرداخت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>پیشرفته</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All sales</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T194639Z" creationid="GMH" creationdate="20190703T194639Z">
+        <seg>تمام فروشات</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,10 +270,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Balance due</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195728Z" creationid="GMH" creationdate="20190703T195728Z">
+        <seg>بیلانس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blank page</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174015Z" creationid="GMH" creationdate="20190703T174015Z">
+        <seg>صفحه خالی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183823Z" creationid="GMH" creationdate="20190703T183823Z">
+        <seg>حروف برجسته</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse Libraries</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T075136Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>جستجو در کتابخانه ها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By category</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195211Z" creationid="GMH" creationdate="20190703T195211Z">
+        <seg>به اساس کتگوری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By collection</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T201630Z" creationid="GMH" creationdate="20190703T201630Z">
+        <seg>به اساس مجموعه انتخاب شده</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +330,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T145028Z" creationid="GMH" creationdate="20190703T145028Z">
         <seg>در حال شمارش...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera Permission Required</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184240Z" creationid="GMH" creationdate="20190703T184240Z">
+        <seg>اجازه کامره لازمی میباشد</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Center</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183849Z" creationid="GMH" creationdate="20190703T183849Z">
+        <seg>بین</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Format:</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -318,10 +422,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174036Z" creationid="GMH" creationdate="20190703T174036Z">
+        <seg>فشار دهید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Closed</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143651Z" creationid="GMH" creationdate="20190703T143651Z">
         <seg>بسته شد </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collections</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T200026Z" creationid="GMH" creationdate="20190703T200026Z">
+        <seg>مجموعه انتخاب شده</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ContentEntry Not Found</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T175514Z" creationid="GMH" creationdate="20190703T175514Z">
+        <seg>ورودی فعلی دریافت نشد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T144832Z" creationid="GMH" creationdate="20190703T144832Z">
@@ -370,6 +498,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T074925Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>فایل باز نشد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new content</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184423Z" creationid="GMH" creationdate="20190703T184423Z">
+        <seg>ایجاد محتوی جدید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new folder</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184433Z" creationid="GMH" creationdate="20190703T184433Z">
+        <seg>ایجاد فولدر جدید</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delivered</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195611Z" creationid="GMH" creationdate="20190703T195611Z">
+        <seg>تحویل داده شد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150527Z" creationid="GMH" creationdate="20190703T150527Z">
@@ -414,10 +566,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discount:</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195701Z" creationid="GMH" creationdate="20190703T195701Z">
+        <seg>تخفیف:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't show this next time</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>این را بار بعدی نشان ندهید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184513Z" creationid="GMH" creationdate="20190703T184513Z">
+        <seg>اجرأ شد</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184441Z" creationid="GMH" creationdate="20190703T184441Z">
+        <seg>تنظیم کردن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Email</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -550,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error while saving, try again</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T194619Z" creationid="GMH" creationdate="20190703T194619Z">
+        <seg>هنگام ثبت نمودن خطا صورت گرفت، دوباره کوشش نمائید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error: unsupported content type</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143810Z" creationid="GMH" creationdate="20190703T143810Z">
@@ -570,6 +754,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>ناموفق</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to load the page</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T185421Z" creationid="GMH" creationdate="20190703T185421Z">
+        <seg>بارگزاری صفحه نامؤفق بود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to update document</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T185503Z" creationid="GMH" creationdate="20190703T185503Z">
+        <seg>به روز رسانی داکومنت نامؤفق بود</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File to be imported is not selected, try again</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184933Z" creationid="GMH" creationdate="20190703T184933Z">
+        <seg>فایل که وارد گردد انتخاب نگردیده، دوباره کوشش نمائید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill in the blanks</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150629Z" creationid="GMH" creationdate="20190703T150629Z">
@@ -606,10 +814,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill out required fields and try again</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184856Z" creationid="GMH" creationdate="20190703T184856Z">
+        <seg>جاهای لازمی را پر نمائید و دوباره کوشش نمائید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First name</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T074724Z" creationid="GMH" creationdate="20190703T074724Z">
         <seg>اسم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder was successfully updated</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T185231Z" creationid="GMH" creationdate="20190703T185231Z">
+        <seg>فولدر مؤفقانه به روز رسانی گردید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font size</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183838Z" creationid="GMH" creationdate="20190703T183838Z">
+        <seg>اندازه خط </seg>
       </tuv>
     </tu>
     <tu>
@@ -662,10 +894,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Goldozi</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T194628Z" creationid="GMH" creationdate="20190703T194628Z">
+        <seg>گلدوزی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Home</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>صفحه اول</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import from file</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184412Z" creationid="GMH" creationdate="20190703T184412Z">
+        <seg>وارد ساختن از فایل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing, please wait</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T185736Z" creationid="GMH" creationdate="20190703T185736Z">
+        <seg>در حال وارد ساختن، لطفاً منتظر باشید</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indent</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T182003Z" creationid="GMH" creationdate="20190703T182003Z">
+        <seg>فاصله سر پاراگراف</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150903Z" creationid="GMH" creationdate="20190703T150903Z">
@@ -686,10 +950,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert Link</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184204Z" creationid="GMH" creationdate="20190703T184204Z">
+        <seg>درج نمودن آدرس وصل سازی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195040Z" creationid="GMH" creationdate="20190703T195040Z">
+        <seg>موجودی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inviting</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>در حال دعوت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Italic</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183816Z" creationid="GMH" creationdate="20190703T183816Z">
+        <seg>حروف کج</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195102Z" creationid="GMH" creationdate="20190703T195051Z">
+        <seg>اجناس</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +1002,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T074711Z" creationid="GMH" creationdate="20190703T074711Z">
         <seg>تخلص</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183853Z" creationid="GMH" creationdate="20190703T183853Z">
+        <seg>چپ</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +1042,30 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150636Z" creationid="GMH" creationdate="20190703T150636Z">
         <seg>وصل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Link Url</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184011Z" creationid="GMH" creationdate="20190703T184011Z">
+        <seg>وصل سازی آدرس انترنتی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Link text</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183953Z" creationid="GMH" creationdate="20190703T183953Z">
+        <seg>وصل سازی متن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Link text or url can not be empty, try again</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184101Z" creationid="GMH" creationdate="20190703T184101Z">
+        <seg>محل وصل سازی متن و یا آدرس انترنتی خالی بوده نمیتواند، دوباره کوشش نمائید</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MORE</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195150Z" creationid="GMH" creationdate="20190703T195150Z">
+        <seg>دیگر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure that the device is visible.</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T080738Z" creationid="GMH" creationdate="20190703T080738Z">
@@ -794,6 +1130,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>مذکر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Media type</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174004Z" creationid="GMH" creationdate="20190703T174004Z">
+        <seg>نوع رسانه </seg>
       </tuv>
     </tu>
     <tu>
@@ -818,6 +1162,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>اصلاح</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195146Z" creationid="GMH" creationdate="20190703T195146Z">
+        <seg>دیگر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most recent</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195141Z" creationid="GMH" creationdate="20190703T195141Z">
+        <seg>آخرین</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +1230,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New folder was successfully added</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T185157Z" creationid="GMH" creationdate="20190703T185157Z">
+        <seg>فولدر جدید مؤفقانه علاوه گردید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New page</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174118Z" creationid="GMH" creationdate="20190703T174118Z">
+        <seg>صفحه جدید </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New password</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -890,6 +1266,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143924Z" creationid="GMH" creationdate="20190703T143924Z">
         <seg>انترنت وصل نیست?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No downloads found</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T185251Z" creationid="GMH" creationdate="20190703T185251Z">
+        <seg>هیچ دانلود دریافت نگردید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No folders found</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T185242Z" creationid="GMH" creationdate="20190703T185242Z">
+        <seg>هیچ فولدر دریافت نگردید</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,6 +1382,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Order notes</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195740Z" creationid="GMH" creationdate="20190703T195740Z">
+        <seg>یادداشتهای فرمایش</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order total:</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195658Z" creationid="GMH" creationdate="20190703T195658Z">
+        <seg>مجموع فرمایش:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ordered List</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T182041Z" creationid="GMH" creationdate="20190703T182041Z">
+        <seg>لیست منظم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outdent</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T182030Z" creationid="GMH" creationdate="20190703T182030Z">
+        <seg>برآمدگی سر پاراگراف</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PARAGRAPH</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150643Z" creationid="GMH" creationdate="20190703T150643Z">
@@ -1002,6 +1426,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T145921Z" creationid="GMH" creationdate="20190703T145921Z">
         <seg>مکث همه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pages</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T180047Z" creationid="GMH" creationdate="20190703T180047Z">
+        <seg>صفحات </seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Payments due</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T194853Z" creationid="GMH" creationdate="20190703T194853Z">
+        <seg>پرداختهای </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phone</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -1118,6 +1558,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pre-order</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195556Z" creationid="GMH" creationdate="20190703T195556Z">
+        <seg>فرمایشات قبلی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-orders</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T194751Z" creationid="GMH" creationdate="20190703T194751Z">
+        <seg>فرمایشان قبلی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preparing</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -1134,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183940Z" creationid="GMH" creationdate="20190703T183940Z">
+        <seg>نمایش</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previewing...</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150951Z" creationid="GMH" creationdate="20190703T150951Z">
@@ -1142,10 +1606,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Price</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195604Z" creationid="GMH" creationdate="20190703T195604Z">
+        <seg>نرخ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Price per piece</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195445Z" creationid="GMH" creationdate="20190703T195445Z">
+        <seg>نرخ فی پارچه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Processing</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T075329Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>در حال پروسس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quantity</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195215Z" creationid="GMH" creationdate="20190703T195215Z">
+        <seg>مقدار</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,6 +1658,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>دریافت کردن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Record sale</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195008Z" creationid="GMH" creationdate="20190703T195008Z">
+        <seg>ثبت فروش</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T180023Z" creationid="GMH" creationdate="20190703T180023Z">
+        <seg>انجام دوباره </seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1718,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove Link</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184226Z" creationid="GMH" creationdate="20190703T184226Z">
+        <seg>حذف وصل سازی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove page</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174419Z" creationid="GMH" creationdate="20190703T174419Z">
+        <seg>حذف نمودن صفحه </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reports</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -1222,10 +1742,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183857Z" creationid="GMH" creationdate="20190703T183857Z">
+        <seg>راست</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right To Left</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150710Z" creationid="GMH" creationdate="20190703T150710Z">
         <seg>از راست به چپ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sales</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T194633Z" creationid="GMH" creationdate="20190703T194633Z">
+        <seg>فروشات</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184524Z" creationid="GMH" creationdate="20190703T184524Z">
+        <seg>ثبت</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select file</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184604Z" creationid="GMH" creationdate="20190703T184604Z">
+        <seg>انتخاب فایل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select language</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -1254,10 +1806,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select producer</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195118Z" creationid="GMH" creationdate="20190703T195118Z">
+        <seg>انتخاب تهیه کننده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the other device from the list below:</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T081036Z">
         <seg>دستگاه دیگر از از لست ذیل انتخاب نمائید:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected file is not supported, try another file</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184801Z" creationid="GMH" creationdate="20190703T184801Z">
+        <seg>فایل انتخاب شده قابل قبول نمیباشد، با یک فایل دیگر دوباره کوشش نمائید</seg>
       </tuv>
     </tu>
     <tu>
@@ -1366,6 +1934,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sold</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195509Z" creationid="GMH" creationdate="20190703T195509Z">
+        <seg>فروخته شد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorry you can not delete this page</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174834Z" creationid="GMH" creationdate="20190703T174834Z">
+        <seg>میبخشید، شما نمیتوانید این صفحه را حذف کنید </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sorry!</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T074252Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -1386,6 +1970,38 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>با عرض پوزش! خطا در بارگذاری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort by</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T194912Z" creationid="GMH" creationdate="20190703T194912Z">
+        <seg>ترتیب</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage option</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184909Z" creationid="GMH" creationdate="20190703T184909Z">
+        <seg>اختیارات محل ذخیر سازی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Superscript</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T183913Z" creationid="GMH" creationdate="20190703T183913Z">
+        <seg>متن عالی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for adding an image is coming soon</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T185624Z" creationid="GMH" creationdate="20190703T185624Z">
+        <seg>برای علاوه ساختن یک تصویر به زودی حمایت صورت خواهد گرفت</seg>
       </tuv>
     </tu>
     <tu>
@@ -1414,6 +2030,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text formatting</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T180041Z" creationid="GMH" creationdate="20190703T180041Z">
+        <seg>شکل بندی متن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This app requires camera permission to take photos and record videos</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184353Z" creationid="GMH" creationdate="20190703T184353Z">
+        <seg>درین اپلیکیشن به اجازه کامره ضرورت است تا تصویر گرفته و ویدیو ثبت گردد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This app requires file permissions on the SD card to download and save content</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150143Z" creationid="GMH" creationdate="20190703T150143Z">
@@ -1438,10 +2070,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174814Z" creationid="GMH" creationdate="20190703T174814Z">
+        <seg>عنوان </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195449Z" creationid="GMH" creationdate="20190703T195449Z">
+        <seg>مجموع</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total mobile data usage</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>مجموع مصرف داده تلفن همراه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195453Z" creationid="GMH" creationdate="20190703T195453Z">
+        <seg>مجموع:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,10 +2110,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Underline</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T182111Z" creationid="GMH" creationdate="20190703T182111Z">
+        <seg>زیرخط</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T180007Z" creationid="GMH" creationdate="20190703T180007Z">
+        <seg>فسخ عملکرد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unordered List</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T182037Z" creationid="GMH" creationdate="20190703T182037Z">
+        <seg>لیست نا منظم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Untitled page</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174312Z" creationid="GMH" creationdate="20190703T174312Z">
+        <seg>صفحه </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143639Z" creationid="GMH" creationdate="20190703T143639Z">
         <seg>به روز رسانی </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update document</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184557Z" creationid="GMH" creationdate="20190703T184557Z">
+        <seg>به روز رسانی داکومنت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update file</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184610Z" creationid="GMH" creationdate="20190703T184610Z">
+        <seg>به روز رسانی فایل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update page</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174344Z" creationid="GMH" creationdate="20190703T174344Z">
+        <seg>به روز رسانی صفحه </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updated successfully</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T185525Z" creationid="GMH" creationdate="20190703T185525Z">
+        <seg>مؤفانه به روز رسانی گردید</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Video</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T173841Z" creationid="GMH" creationdate="20190703T173841Z">
+        <seg>ویدیو</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Waiting</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -1506,6 +2234,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>منتظر فرستنده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What media type would you like to capture?</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T173956Z" creationid="GMH" creationdate="20190703T173956Z">
+        <seg>کدام نوع رسانه را میخواهید؟ </seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have successfully imported a file</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184640Z" creationid="GMH" creationdate="20190703T184640Z">
+        <seg>شما یک فایل را موفقانه وارد ساختید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\n2.</seg>
       </tuv>
     </tu>
@@ -1559,6 +2303,46 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>در دستگاه که شما می‌خواهید توسط آن شریک سازید:\n تنظیمات را بازکنید &lt; تنظیمات بلوتوث\n مطمئن شوید که دستگاه قابل‌رؤیت است.\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>amount</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T194922Z" creationid="GMH" creationdate="20190703T194922Z">
+        <seg>مقدار</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>location</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T194926Z" creationid="GMH" creationdate="20190703T194926Z">
+        <seg>موقعیت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>payments</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195621Z" creationid="GMH" creationdate="20190703T195621Z">
+        <seg>پرداختها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>recent</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T194918Z" creationid="GMH" creationdate="20190703T194918Z">
+        <seg>اخیر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to start editing.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T174112Z" creationid="GMH" creationdate="20190703T174112Z">
+        <seg>برای آغاز تنظیم نمودن</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
