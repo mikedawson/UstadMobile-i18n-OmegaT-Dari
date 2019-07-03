@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the device that you want to share with: \n1.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T080521Z" creationid="GMH" creationdate="20190703T080521Z">
+        <seg>در دستگاه که میخواهید با آن شریک سازید: \n1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On this device</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -591,6 +599,9 @@
     <tu>
       <tuv lang="EN-US">
         <seg>Open Settings &gt; Bluetooth Settings.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T080624Z">
+        <seg>باز کنید: تنظیمات » تنظیمات بلوتوت.</seg>
       </tuv>
     </tu>
     <tu>
@@ -980,6 +991,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T072748Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>نام کاربری/رمز عبور اشتباه است: دوباره امتحان کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can share this app offline.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T080354Z" creationid="GMH" creationdate="20190703T080354Z">
+        <seg>شما میتوانید این اپلیکیشن را از طریق آفلاین شریک سازید.</seg>
       </tuv>
     </tu>
     <tu>
