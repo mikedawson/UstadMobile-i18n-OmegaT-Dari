@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204159Z" creationid="GMH" creationdate="20190703T204159Z">
+        <seg>کامره</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera Permission Required</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184240Z" creationid="GMH" creationdate="20190703T184240Z">
@@ -744,8 +752,8 @@
       <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184441Z" creationid="GMH" creationdate="20190703T184441Z">
-        <seg>تنظیم کردن</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204156Z" creationid="GMH" creationdate="20190703T184441Z">
+        <seg>اصلاح کردن</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +954,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150918Z" creationid="GMH" creationdate="20190703T150918Z">
         <seg>از دستگاه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gallery</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204207Z" creationid="GMH" creationdate="20190703T204207Z">
+        <seg>گالری</seg>
       </tuv>
     </tu>
     <tu>
@@ -2202,6 +2218,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T202407Z" creationid="GMH" creationdate="20190703T202407Z">
         <seg>برای یادگیری روی صفحه لمس کنید.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Syncing</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204108Z" creationid="GMH" creationdate="20190703T204108Z">
+        <seg>همگاه کردن</seg>
       </tuv>
     </tu>
     <tu>
