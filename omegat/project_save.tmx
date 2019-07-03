@@ -1982,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show products to customers.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T202425Z" creationid="GMH" creationdate="20190703T202425Z">
+        <seg>محصولات را به مشتریان نشان دهید.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Signup Code</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T075241Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -2066,6 +2074,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T185624Z" creationid="GMH" creationdate="20190703T185624Z">
         <seg>برای علاوه ساختن یک تصویر به زودی حمایت صورت خواهد گرفت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swipe to learn more.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T202407Z" creationid="GMH" creationdate="20190703T202407Z">
+        <seg>برای یادگیری روی صفحه لمس کنید.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2178,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195453Z" creationid="GMH" creationdate="20190703T195453Z">
         <seg>مجموع:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Track your stock and sales.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T202936Z" creationid="GMH" creationdate="20190703T202936Z">
+        <seg>ذخیره گاه خود را پیگیری کنید.</seg>
       </tuv>
     </tu>
     <tu>
