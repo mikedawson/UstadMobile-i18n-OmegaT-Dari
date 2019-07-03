@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a new subcategory</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204313Z" creationid="GMH" creationdate="20190703T204313Z">
+        <seg>ایجاد یک کتگوری فرعی جدید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create new content</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T184423Z" creationid="GMH" creationdate="20190703T184423Z">
@@ -634,6 +642,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150527Z" creationid="GMH" creationdate="20190703T150527Z">
         <seg>تفصیل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description (English)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204512Z" creationid="GMH" creationdate="20190703T204512Z">
+        <seg>تفصیل (انگلیسی)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,6 +2326,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Title (Dari)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204446Z" creationid="GMH" creationdate="20190703T204446Z">
+        <seg>عنوان (دری)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title (English)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204432Z" creationid="GMH" creationdate="20190703T204432Z">
+        <seg>عنوان (انگلیسی)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title (Pashto)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204500Z" creationid="GMH" creationdate="20190703T204500Z">
+        <seg>عنوان (پشتو)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T195449Z" creationid="GMH" creationdate="20190703T195449Z">
@@ -2354,6 +2394,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203803Z" creationid="GMH" creationdate="20190703T203803Z">
         <seg>دوباره کوشش نمائید.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to open that image</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204242Z" creationid="GMH" creationdate="20190703T204242Z">
+        <seg>این تصویر باز شده نتوانست</seg>
       </tuv>
     </tu>
     <tu>
