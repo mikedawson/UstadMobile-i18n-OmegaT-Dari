@@ -64,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>Also available in</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
-        <seg>همدارنګه د لاسترسي وړ دی</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143850Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>همچنان قابل دسترس است در</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot update</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143715Z" creationid="GMH" creationdate="20190703T143715Z">
+        <seg>به روز رسانی اجرأ شده نتوانست</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Catalog</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143644Z" creationid="GMH" creationdate="20190703T143644Z">
+        <seg>کتلاگ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Format:</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -146,6 +162,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>صنف‌ها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Closed</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143651Z" creationid="GMH" creationdate="20190703T143651Z">
+        <seg>بسته شد </seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +354,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>خطا در ثبت نام کاربر جدید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error: unsupported content type</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143810Z" creationid="GMH" creationdate="20190703T143810Z">
+        <seg>اشتباه: نوع محتوی قابل قبول نیست</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,6 +686,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Password doesn't match, try again</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143632Z" creationid="GMH" creationdate="20190703T143632Z">
+        <seg>رمز عبور درست نیست، دوباره کوشش نمایید </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password should be at least 5 characters</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143559Z" creationid="GMH" creationdate="20190703T143559Z">
+        <seg>رمز عبور باید حد اقل 5 حرف باشد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pause download</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T073857Z" creationid="GMH" creationdate="20190703T073857Z">
@@ -970,6 +1018,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T081057Z" creationid="GMH" creationdate="20190703T081057Z">
         <seg>دوباره کوشش نمائید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143639Z" creationid="GMH" creationdate="20190703T143639Z">
+        <seg>به روز رسانی </seg>
       </tuv>
     </tu>
     <tu>
