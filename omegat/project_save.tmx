@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose file</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150926Z" creationid="GMH" creationdate="20190703T150926Z">
+        <seg>انتخاب فایل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classes</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150912Z" creationid="GMH" creationdate="20190703T150912Z">
         <seg>از کامره</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From device</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150918Z" creationid="GMH" creationdate="20190703T150918Z">
+        <seg>از دستگاه</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Photo</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150958Z" creationid="GMH" creationdate="20190703T150958Z">
+        <seg>تصوویر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please enter name</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -1098,6 +1122,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>آماده سازی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing file...</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150939Z" creationid="GMH" creationdate="20190703T150939Z">
+        <seg>در حال آماده ساختن فایل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previewing...</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150951Z" creationid="GMH" creationdate="20190703T150951Z">
+        <seg>در حال نمایش دادن</seg>
       </tuv>
     </tu>
     <tu>
