@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calculating...</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T145028Z" creationid="GMH" creationdate="20190703T145028Z">
+        <seg>در حال شمارش...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -194,6 +202,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>اتصال</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T144832Z" creationid="GMH" creationdate="20190703T144832Z">
+        <seg>ادامه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue download</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T144828Z" creationid="GMH" creationdate="20190703T144828Z">
+        <seg>ادامه دانلود</seg>
       </tuv>
     </tu>
     <tu>
@@ -1130,6 +1154,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>منتظر فرستنده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WiFi only</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T144845Z" creationid="GMH" creationdate="20190703T144845Z">
+        <seg>صرف وایفای</seg>
       </tuv>
     </tu>
     <tu>
