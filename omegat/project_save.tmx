@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CANCEL ALL</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T145843Z" creationid="GMH" creationdate="20190703T145843Z">
+        <seg>لغو همه </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculating...</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T145028Z" creationid="GMH" creationdate="20190703T145028Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>لغو</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel download</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T145852Z" creationid="GMH" creationdate="20190703T145852Z">
+        <seg>لغو دانلود</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Downloading %1$s of %2$s</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T145809Z" creationid="GMH" creationdate="20190703T145809Z">
+        <seg>در حال دانلود %1$s of %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Email</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -442,6 +466,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>مونث</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File permissions required</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150006Z" creationid="GMH" creationdate="20190703T150006Z">
+        <seg>اجازه فایل لازمی میباشد</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PAUSE ALL</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T145921Z" creationid="GMH" creationdate="20190703T145921Z">
+        <seg>مکث همه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Passed</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -786,6 +826,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143559Z" creationid="GMH" creationdate="20190703T143559Z">
         <seg>رمز عبور باید حد اقل 5 حرف باشد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pause</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T145932Z" creationid="GMH" creationdate="20190703T145932Z">
+        <seg>مکث </seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1186,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T143639Z" creationid="GMH" creationdate="20190703T143639Z">
         <seg>به روز رسانی </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use %1$s - %2$s free</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T145953Z" creationid="GMH" creationdate="20190703T145953Z">
+        <seg>استفاده%1$s - %2$s خالی</seg>
       </tuv>
     </tu>
     <tu>
