@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not delivered</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203722Z" creationid="GMH" creationdate="20190703T203722Z">
+        <seg>تحویل داده نشد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nothing selected!</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -1466,6 +1474,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>اختیاری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order due date</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203709Z" creationid="GMH" creationdate="20190703T203709Z">
+        <seg>موعد مقرر فرمایش</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Passwords do not match.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203757Z" creationid="GMH" creationdate="20190703T203757Z">
+        <seg>رمزهای عبور یکسان نیست.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pause</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T145932Z" creationid="GMH" creationdate="20190703T145932Z">
@@ -1586,6 +1610,30 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T150355Z" creationid="GMH" creationdate="20190703T150355Z">
         <seg>مکث </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Payment amount</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203615Z" creationid="GMH" creationdate="20190703T203615Z">
+        <seg>مقدار پرداخت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Payment date</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203619Z" creationid="GMH" creationdate="20190703T203619Z">
+        <seg>تاریخ پرداخت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Payments</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203605Z" creationid="GMH" creationdate="20190703T203605Z">
+        <seg>پرداختها </seg>
       </tuv>
     </tu>
     <tu>
@@ -2274,6 +2322,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T081057Z" creationid="GMH" creationdate="20190703T081057Z">
         <seg>دوباره کوشش نمائید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try again.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203803Z" creationid="GMH" creationdate="20190703T203803Z">
+        <seg>دوباره کوشش نمائید.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to reset password.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203938Z" creationid="GMH" creationdate="20190703T203938Z">
+        <seg>تغییر رمز عبور اجرأ گردیده نتوانست.</seg>
       </tuv>
     </tu>
     <tu>
