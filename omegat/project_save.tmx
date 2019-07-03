@@ -808,6 +808,9 @@
       <tuv lang="EN-US">
         <seg>Select the other device from the list below:</seg>
       </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T081036Z">
+        <seg>دستگاه دیگر از از لست ذیل انتخاب نمائید:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -951,6 +954,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
         <seg>مجموع مصرف داده تلفن همراه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try again</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T081057Z" creationid="GMH" creationdate="20190703T081057Z">
+        <seg>دوباره کوشش نمائید</seg>
       </tuv>
     </tu>
     <tu>
