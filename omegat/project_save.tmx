@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T073918Z" creationid="GMH" creationdate="20190703T073908Z">
+        <seg>تائید </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -587,6 +595,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pause download</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T073857Z" creationid="GMH" creationdate="20190703T073857Z">
+        <seg>مکث در دانلود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phone</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
@@ -826,8 +842,8 @@
       <tuv lang="EN-US">
         <seg>Sorry!</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="OmegaT Aligner" changedate="20190630T160157Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
-        <seg>با عرض تأسف!</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T074017Z" creationid="OmegaT Aligner" creationdate="20190630T160157Z">
+        <seg>با عرض معذرت!</seg>
       </tuv>
     </tu>
     <tu>
