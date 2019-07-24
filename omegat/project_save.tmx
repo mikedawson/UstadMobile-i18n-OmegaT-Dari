@@ -2734,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supported files: &lt;b&gt;H5P, Epub, TinCan (XAPI) Zip&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190724T143020Z" creationid="GMH" creationdate="20190724T143020Z">
+        <seg>فایلهای پشتیبانی شده &lt;b&gt;H5P, Epub, TinCan (XAPI) Zip&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swipe to learn more.</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190703T202407Z" creationid="GMH" creationdate="20190703T202407Z">
