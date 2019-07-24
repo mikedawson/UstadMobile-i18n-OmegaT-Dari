@@ -2888,16 +2888,16 @@
       <tuv lang="EN-US">
         <seg>Top LEs</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T210615Z" creationid="GMH" creationdate="20190703T210615Z">
-        <seg>عالی LEs</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190724T144419Z" creationid="GMH" creationdate="20190703T210615Z">
+        <seg>اولین متشبثین پشتاز</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Top LEs Report</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T211109Z" creationid="GMH" creationdate="20190703T211109Z">
-        <seg>عالی LEs گزارش</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190724T144509Z" creationid="GMH" creationdate="20190703T211109Z">
+        <seg>گزارش متشبثین پشتاز</seg>
       </tuv>
     </tu>
     <tu>
@@ -3221,16 +3221,16 @@
       <tuv lang="EN-US">
         <seg>date (asc)</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T205044Z" creationid="GMH" creationdate="20190703T205044Z">
-        <seg>تاریخ (asc)</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190724T144319Z" creationid="GMH" creationdate="20190703T205044Z">
+        <seg>تاریخ (صعودی)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>date (desc)</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T205017Z" creationid="GMH" creationdate="20190703T205017Z">
-        <seg>تاریخ (desc)</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190724T144310Z" creationid="GMH" creationdate="20190703T205017Z">
+        <seg>تاریخ (نزولی)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3301,8 +3301,8 @@
       <tuv lang="EN-US">
         <seg>name (desc)</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T203116Z" creationid="GMH" creationdate="20190703T203116Z">
-        <seg>اسم (desc)</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190724T144233Z" creationid="GMH" creationdate="20190703T203116Z">
+        <seg>اسم (بشکل نزولی)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3341,16 +3341,16 @@
       <tuv lang="EN-US">
         <seg>total (asc)</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T204931Z" creationid="GMH" creationdate="20190703T204931Z">
-        <seg>مجموع (asc)</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190724T144251Z" creationid="GMH" creationdate="20190703T204931Z">
+        <seg>مجموع (صعودی)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>total (desc)</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190703T205009Z" creationid="GMH" creationdate="20190703T205009Z">
-        <seg>مجموع (desc)</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190724T144300Z" creationid="GMH" creationdate="20190703T205009Z">
+        <seg>مجموع (نزولی)</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
